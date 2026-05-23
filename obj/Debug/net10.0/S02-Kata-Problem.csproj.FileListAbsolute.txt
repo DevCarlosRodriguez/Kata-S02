@@ -1,0 +1,14 @@
+C:\Users\ad1gr\Downloads\S02-Kata-main\S02-Kata-main\obj\Debug\net10.0\S02-Kata-Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ad1gr\Downloads\S02-Kata-main\S02-Kata-main\obj\Debug\net10.0\S02-Kata-Problem.AssemblyInfoInputs.cache
+C:\Users\ad1gr\Downloads\S02-Kata-main\S02-Kata-main\obj\Debug\net10.0\S02-Kata-Problem.AssemblyInfo.cs
+C:\Users\ad1gr\Downloads\S02-Kata-main\S02-Kata-main\obj\Debug\net10.0\S02-Kata-Problem.csproj.CoreCompileInputs.cache
+C:\Users\ad1gr\Downloads\S02-Kata-main\S02-Kata-main\bin\Debug\net10.0\S02-Kata-Problem.exe
+C:\Users\ad1gr\Downloads\S02-Kata-main\S02-Kata-main\bin\Debug\net10.0\S02-Kata-Problem.deps.json
+C:\Users\ad1gr\Downloads\S02-Kata-main\S02-Kata-main\bin\Debug\net10.0\S02-Kata-Problem.runtimeconfig.json
+C:\Users\ad1gr\Downloads\S02-Kata-main\S02-Kata-main\bin\Debug\net10.0\S02-Kata-Problem.dll
+C:\Users\ad1gr\Downloads\S02-Kata-main\S02-Kata-main\bin\Debug\net10.0\S02-Kata-Problem.pdb
+C:\Users\ad1gr\Downloads\S02-Kata-main\S02-Kata-main\obj\Debug\net10.0\S02-Kata-Problem.dll
+C:\Users\ad1gr\Downloads\S02-Kata-main\S02-Kata-main\obj\Debug\net10.0\refint\S02-Kata-Problem.dll
+C:\Users\ad1gr\Downloads\S02-Kata-main\S02-Kata-main\obj\Debug\net10.0\S02-Kata-Problem.pdb
+C:\Users\ad1gr\Downloads\S02-Kata-main\S02-Kata-main\obj\Debug\net10.0\S02-Kata-Problem.genruntimeconfig.cache
+C:\Users\ad1gr\Downloads\S02-Kata-main\S02-Kata-main\obj\Debug\net10.0\ref\S02-Kata-Problem.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "S02-Kata-Problem/1.0.0": {
+        "runtime": {
+          "S02-Kata-Problem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S02-Kata-Problem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
