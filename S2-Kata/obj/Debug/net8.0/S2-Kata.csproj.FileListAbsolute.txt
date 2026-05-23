@@ -1,0 +1,14 @@
+C:\Users\ad1gr\source\repos\S2-Kata\S2-Kata\obj\Debug\net8.0\S2-Kata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ad1gr\source\repos\S2-Kata\S2-Kata\obj\Debug\net8.0\S2-Kata.AssemblyInfoInputs.cache
+C:\Users\ad1gr\source\repos\S2-Kata\S2-Kata\obj\Debug\net8.0\S2-Kata.AssemblyInfo.cs
+C:\Users\ad1gr\source\repos\S2-Kata\S2-Kata\obj\Debug\net8.0\S2-Kata.csproj.CoreCompileInputs.cache
+C:\Users\ad1gr\source\repos\S2-Kata\S2-Kata\bin\Debug\net8.0\S2-Kata.exe
+C:\Users\ad1gr\source\repos\S2-Kata\S2-Kata\bin\Debug\net8.0\S2-Kata.deps.json
+C:\Users\ad1gr\source\repos\S2-Kata\S2-Kata\bin\Debug\net8.0\S2-Kata.runtimeconfig.json
+C:\Users\ad1gr\source\repos\S2-Kata\S2-Kata\bin\Debug\net8.0\S2-Kata.dll
+C:\Users\ad1gr\source\repos\S2-Kata\S2-Kata\bin\Debug\net8.0\S2-Kata.pdb
+C:\Users\ad1gr\source\repos\S2-Kata\S2-Kata\obj\Debug\net8.0\S2-Kata.dll
+C:\Users\ad1gr\source\repos\S2-Kata\S2-Kata\obj\Debug\net8.0\refint\S2-Kata.dll
+C:\Users\ad1gr\source\repos\S2-Kata\S2-Kata\obj\Debug\net8.0\S2-Kata.pdb
+C:\Users\ad1gr\source\repos\S2-Kata\S2-Kata\obj\Debug\net8.0\S2-Kata.genruntimeconfig.cache
+C:\Users\ad1gr\source\repos\S2-Kata\S2-Kata\obj\Debug\net8.0\ref\S2-Kata.dll
