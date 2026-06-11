@@ -156,7 +156,7 @@ flowchart TD
     B --> C{InterestRate == 0?}
     C -->|Sí| D["Payment = Amount / Installments<br/>TotalInterest = 0"]
     C -->|No| E["Payment = Amount × ( i·(1+i)^n ) / ( (1+i)^n − 1 )<br/>(fórmula francesa)"]
-    D --> F[PaymentByPeriod truncado a 4 decimales]
+    D --> F[PaymentByPeriod truncado a 8 decimales]
     E --> F
 ```
 
@@ -229,7 +229,7 @@ Reglas codificadas (y dónde se validan):
 | 5 | **De una cuota solo se actualiza el método de pago** | `UpdateInstallmentsPayment` valida que no exista cuota posterior |
 | 6 | **Archivos adjuntos se pueden actualizar** | `UploadVoucherImage` / `DeleteVoucher` |
 | 7 | **No se cobra si la venta está liquidada** | `IsSettled == true` / `SaleStatusCatalog.Settled` → error |
-| 8 | **No se paga extra al pagar dos cuotas a la vez** | `IsExtra` solo se aplica si `InstallmentEquivalent == 1` |
+| 8 | **No se paga extra al pagar dos cuotas en el mismo cobro** | `IsExtra` solo se aplica si `InstallmentEquivalent == 1` |
 | 9 | **No se pagan parcialidades en cuota equivalente a dos** | `InstallmentEquivalent > 1 && AmountReceived < TotalToPay` → error |
 | 10 | **Pago incompleto → parcialidad; no avanza hasta cubrir mora** | `IsPaymentCompleted = pago < PaymentByPeriod ? false : true` |
 
